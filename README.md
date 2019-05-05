@@ -1,5 +1,6 @@
 # WebdriverIO/Mocha Basic Repository
 
+[![Build Status](https://travis-ci.org/klamping/wdio-mocha-basic.svg?branch=master)](https://travis-ci.org/klamping/wdio-mocha-basic)
 [![Greenkeeper badge](https://badges.greenkeeper.io/klamping/wdio-mocha-basic.svg)](https://greenkeeper.io/)
 
 This is a very simple WebdriverIO repository meant as a starting point for more complex setups. Useful to help isolate errors and show off simple examples.
